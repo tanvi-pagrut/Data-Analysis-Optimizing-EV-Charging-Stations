@@ -5,6 +5,7 @@ Project Overview
 
 This project, developed as a part of the 'Data Visualization' course, involves a comprehensive analysis of Electric Vehicle (EV) Charging Stations using real-time usage and geographical data. The goal is to optimize the charging station infrastructure to improve user experience and expand the network's reach and efficiency.
 
+
 Contents 
 
 Both Jupyter notebook source code and tableau source code attached. Dirty dataset and cleaned dataset attached. Data year is from 2011 to 2013. Our final report has been attached. 
@@ -22,9 +23,11 @@ Tableau Dashboard: Load Tableau_Dashboard.twb into Tableau Desktop to interact w
 
 Report: Read Project_Report.pdf for a complete understanding of the project scope, methodologies applied, and the insights gained. Contributors Priya Govindarajulu, Raveena Kagne, Harsh Somaiya, Vaibhav Prakash Shete. Special thanks to the entire team for their dedication and hard work throughout this project.
 
+
 License 
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
+
 
 Acknowledgments 
 
